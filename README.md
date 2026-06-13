@@ -4,7 +4,7 @@
 
 An AI-powered courtroom drama app that settles your most ridiculous everyday debates — with full theatrical flair, a live animated judge, a rowdy audience, and scorecards. Built in one day as a Claude Artifact.
 
-🔗 **[Try it live →](https://your-claude-publish-link-here)**
+🔗 **[Try it live →](https://claude.ai/public/artifacts/d955a40e-2376-4c9f-959a-372c2d699344)**
 
 ---
 
@@ -57,9 +57,7 @@ This was built entirely inside **Claude Artifacts** — Anthropic's in-chat app 
 2. Iterated on the UI through conversation ("make it more modern", "add a petty judge character", "add a rowdy audience")
 3. Hit **Publish** to get a shareable link
 
-Total time: ~1 day of iterative prompting.
-
-This project is part of a series of real-world AI apps I'm building to explore what's possible when PMs ship with AI tools. Next up: Plant Matchmaker 🌿 and Why Is My Cat Doing That 🐱
+Total time: ~30 minutes of iterative prompting.
 
 ---
 
@@ -102,6 +100,6 @@ Get an API key at [console.anthropic.com](https://console.anthropic.com) — fre
 
 ## Author
 
-Built by [Your Name](https://linkedin.com/in/yourprofile) — TPM & product thinker exploring AI-accelerated building.
+Built by [Nikita Kumari](https://www.linkedin.com/in/nikitakumari22/)
 
 *Verdicts are legally meaningless and emotionally binding.*
