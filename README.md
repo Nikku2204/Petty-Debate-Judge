@@ -89,19 +89,4 @@ Get an API key at [console.anthropic.com](https://console.anthropic.com) — fre
 
 ---
 
-## More projects in this series
-
-| App | Status | Description |
-|---|---|---|
-| ⚖️ Petty Debate Judge | ✅ Live | AI courtroom drama for silly arguments |
-| 🌿 Plant Matchmaker | 🔨 Building | Find your perfect plant like a dating app |
-| 🐱 Why Is My Cat Doing That | 🔨 Building | Decode your cat's chaotic behavior |
-| 🎸 Ukulele Chord Coach | 🔨 Building | Song-to-chords generator for beginners |
-
----
-
-## Author
-
-Built by [Nikita Kumari](https://www.linkedin.com/in/nikitakumari22/)
-
 *Verdicts are legally meaningless and emotionally binding.*
