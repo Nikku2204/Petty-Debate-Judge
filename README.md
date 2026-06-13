@@ -1,7 +1,8 @@
 # ⚖️ Petty Debate Judge
 
 > *"Justice for arguments that absolutely did not need a judge."*
-![Alt text](./assets/screenshot.png)
+
+![Alt text](./assets/petty.png)
 
 An AI-powered courtroom drama app that settles your most ridiculous everyday debates — with full theatrical flair, a live animated judge, a rowdy audience, and scorecards. Built in one day as a Claude Artifact.
 
